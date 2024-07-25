@@ -1,5 +1,5 @@
-//Time = 
-//Space = O(N) , where N is Maximum depth of stack
+//Time = O(4^N)
+//Space = O(N)
 
 class Solution {
     public List<String> addOperators(String num, int target) {

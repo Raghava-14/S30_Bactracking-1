@@ -1,6 +1,3 @@
-//Time = 
-//Space = 
-
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         // Create a list to store all unique combinations of candidates
